@@ -1,7 +1,7 @@
 
-# TEAM - (GANZINAM)[https://github.com/GanZinam]
-### 팀 - 간지남
-### 한국게임과학고등학교 2학년)
+# TEAM - [GANZINAM](https://github.com/GanZinam0
+#### 팀 - 간지남
+#### 한국게임과학고등학교 2학년)
 
 ## Bing-Bong
 ### 수상이력
