@@ -1,5 +1,5 @@
 
-# TEAM - [GANZINAM](https://github.com/GanZinam0
+# TEAM - [GANZINAM](https://github.com/GanZinam)
 #### 팀 - 간지남
 #### 한국게임과학고등학교 (2학년)
 
