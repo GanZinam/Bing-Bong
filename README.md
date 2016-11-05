@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿
 # TEAM - [GANZINAM](https://github.com/GanZinam)
+=======
+
+# TEAM - [GANZINAM](https://github.com/GanZinam0
+>>>>>>> parent of 70d930a... Update README.md
 #### 팀 - 간지남
 #### 한국게임과학고등학교 (2학년)
 
